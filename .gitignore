@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Env file
+env.env
+
+# Data dir
+data/*
+
+# Keep empty dirs
+!.keep
+
